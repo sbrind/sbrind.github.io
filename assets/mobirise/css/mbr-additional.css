@@ -1802,6 +1802,15 @@ body {
 .cid-qXkX4xwCTb .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-qXkX4xwCTb H1 {
+  color: #149dcc;
+}
+.cid-qXkX4xwCTb H3 {
+  color: #149dcc;
+}
+.cid-qXkX4xwCTb P {
+  color: #149dcc;
+}
 .cid-qXkX8neOrS {
   background: linear-gradient(45deg, #fbac7f, #e5658a);
 }
@@ -1914,6 +1923,9 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/close-up-finger-hurt-433625-2000x1420.jpg");
+}
+.cid-qXl1X6GBnT H2 {
+  color: #232323;
 }
 .cid-qXl1V6isQT {
   padding-top: 60px;
