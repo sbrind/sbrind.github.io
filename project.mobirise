@@ -28,7 +28,7 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#000000"
+        "#ff0000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -467,6 +467,9 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            "H1": {
+              "color": "#ff0000"
             }
           },
           "_name": "header2",
