@@ -554,7 +554,7 @@
               "font-style": "italic"
             },
             "H1": {
-              "color": "#55b4d4",
+              "color": "#149dcc",
               "text-align": "right"
             },
             "H3": {
@@ -566,7 +566,7 @@
               "text-align": "right"
             },
             "B": {
-              "color": "#149dcc"
+              "color": "#ffffff"
             },
             "SPAN": {
               "color": "#55b4d4"
