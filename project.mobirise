@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#000000"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -487,6 +489,12 @@
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
+            },
+            "H1": {
+              "color": "#000000"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#000000"
             }
           },
           "_name": "header2",
@@ -542,13 +550,14 @@
               "font-style": "italic"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#55b4d4"
             },
             "H3": {
               "color": "#efefef"
             },
             "P": {
-              "color": "#0f7699"
+              "color": "#0f7699",
+              "text-align": "left"
             },
             "B": {
               "color": "#55b4d4"
